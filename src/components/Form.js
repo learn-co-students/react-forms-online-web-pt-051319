@@ -1,7 +1,7 @@
 import React from 'react';
 
 class Form extends React.Component {
-  state = {
+  state= {
     firstName: "John",
     lastName: "Henry"
   }
